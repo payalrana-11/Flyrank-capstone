@@ -1,0 +1,67 @@
+---
+alwaysApply: true
+---
+# Cursor Project Rules
+
+## Tech Stack
+
+* Next.js
+* React
+* Node.js
+* Express.js
+* MongoDB
+
+## Coding Conventions
+
+* Use modern JavaScript (ES6+) or TypeScript when appropriate.
+* Prefer async/await over promise chains.
+* Write reusable and modular components.
+* Keep functions focused and easy to read.
+* Follow ESLint recommendations.
+* Use meaningful variable and function names.
+
+---
+description: Project-wide coding standards and conventions
+globs:
+  - "**/*"
+alwaysApply: true
+---
+
+# AI Capstone Project Rules
+
+## Tech Stack
+
+- Next.js
+- React
+- Node.js
+- Express.js
+- MongoDB
+
+## Coding Conventions
+
+- Use modern JavaScript (ES6+) or TypeScript where appropriate.
+- Prefer async/await over promise chains.
+- Write modular and reusable code.
+- Keep functions concise and readable.
+- Use descriptive variable and function names.
+- Follow Conventional Commits for Git commits.
+
+## Project Structure
+
+- Keep frontend and backend code organized.
+- Store secrets in `.env`.
+- Write clear documentation for major features.
+
+## Git
+
+Use Conventional Commits for every commit.
+
+Examples:
+
+* feat:
+* fix:
+* docs:
+* chore:
+* refactor:
+* test:
+* style
